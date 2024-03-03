@@ -8999,3 +8999,9 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+.btn-outline-dark:hover {
+  color: #FF6000 !important;
+  border-color: #FF6000 !important;
+  background-color: transparent !important;
+}
